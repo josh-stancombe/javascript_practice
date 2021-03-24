@@ -1,2 +1,2 @@
 # mess_around_js
-Mess around JavaScript code
+Messing around with concepts learnt in JavaScript (ES6). 
