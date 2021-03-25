@@ -1,3 +1,5 @@
+// JS Objects Example - Football Team.js
+
 let team = {
 
     _players: [
